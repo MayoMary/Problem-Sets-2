@@ -30,3 +30,11 @@ Exercise asked to 'Write a Python script that reads the Iris data set in and pri
 Needed to count the characters in the row across so as to divide them up into columns. For example, the first column for Petal length had 3 characters(5.1), therefore needed to cpunt across 0 to 3 so as to include space. The second column then for Petal Width was after Peta; length, therefore was characters 4 to 7 to include a space also.
 
 
+Exercise 6 : Factorial
+File name :Ex6.py
+Exercise was to write a Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial. The factorial of a number is that number multiplied by all of the positive numbers less than it. For example, the factorial of 5 is 5x4x3x2x1 which equals 120. You should, in your script, test the function by calling it with the values 5, 7, and 10.
+First I wrote code to get the factorial of 5. Once I was happy with my logic and maths, I then changed the script to alow for range 1 to 20.
+08/04/18: Having got it working I had forgotten until tonight to then go back and redo the exercise using factorial.
+Needed to use the 'int' function is how to read integers as numbers
+Source of 'int' function was https://stackoverflow.com/questions/20449427/how-can-i-read-inputs-as-integers
+
