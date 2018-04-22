@@ -1,4 +1,6 @@
 # Problem-Sets-2
+----------------
+
 Exercises 1 and 2 : Fibonacci
 File names fib.pyand Fib2.py
 Exercise 1 relates to the Fibonacci number using the first and last initials of first name. Mary M=13, y=25 therefore looking for the result of 38.
