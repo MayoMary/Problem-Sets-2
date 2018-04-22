@@ -15,7 +15,7 @@ Capital M = 77, e=101, therefore looking for the result of 178
 File name Cotatz.py.
 Exercise 3 based on [CollatzConjecture](https://en.wikipedia.org/wiki/Collatz_conjecture).
 Needed to use the 'int' function is how to read integers as numbers.
-Source of {'int' function](https://stackoverflow.com/questions/20449427/how-can-i-read-inputs-as-integers).
+Source of ['int' function](https://stackoverflow.com/questions/20449427/how-can-i-read-inputs-as-integers).
 Crucial logic n != 1....reads as 'n does not equal 1'.
 
 
@@ -47,7 +47,8 @@ The second column then for Petal Width was after Peta; length, therefore was cha
 --------------------------
 File name :Ex6.py
 Exercise was to write a Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial. 
-The factorial of a number is that number multiplied by all of the positive numbers less than it. For example, the factorial of 5 is 5x4x3x2x1 which equals 120. 
+The factorial of a number is that number multiplied by all of the positive numbers less than it. 
+For example, the factorial of 5 is 5x4x3x2x1 which equals 120. 
 You should, in your script, test the function by calling it with the values 5, 7, and 10.
 First I wrote code to get the factorial of 5. 
 Once I was happy with my logic and maths, I then changed the script to alow for range 1 to 20.
