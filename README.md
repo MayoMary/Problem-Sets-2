@@ -2,6 +2,7 @@
 ----------------
 
 ##**Exercises 1 and 2 : Fibonacci**
+---------------------------------
 File names fib.pyand Fib2.py.
 Exercise 1 relates to the Fibonacci number using the first and last initials of first name. 
 Mary M=13, y=25 therefore looking for the result of 38.
@@ -10,6 +11,7 @@ Capital M = 77, e=101, therefore looking for the result of 178
 
 
 ##**Exercise 3: Collatz**
+-----------------------
 File name Cotatz.py.
 Exercise 3 based on [CollatzConjecture](https://en.wikipedia.org/wiki/Collatz_conjecture).
 Needed to use the 'int' function is how to read integers as numbers.
@@ -18,6 +20,7 @@ Crucial logic n != 1....reads as 'n does not equal 1'.
 
 
 ##**Exercise 4 : Euler Problem 5**
+--------------------------------
 File name Exercise4.py
 ##Based on [Orginalproblem](https://projecteuler.net/problem=5)
 First I re-created the Original problem for numbers 1 to 10 in Python and got the answer 2,520.
@@ -29,6 +32,7 @@ I first re-created the Original problem for numbers 1 to 10 in Python and got th
 
 
 ##**Exercise 5 : Iris**
+---------------------
 File name : iris.py
 Based on studies of the Iris flower by Ronald Fischer in 1936
 Link to [Iris Data set](https://en.wikipedia.org/wiki/Iris_flower_data_set)
@@ -40,6 +44,7 @@ The second column then for Petal Width was after Peta; length, therefore was cha
 
 
 ##**Exercise 6 : Factorial**
+--------------------------
 File name :Ex6.py
 Exercise was to write a Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial. 
 The factorial of a number is that number multiplied by all of the positive numbers less than it. For example, the factorial of 5 is 5x4x3x2x1 which equals 120. 
